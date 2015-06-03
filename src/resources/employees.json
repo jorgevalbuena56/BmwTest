@@ -1,0 +1,39 @@
+{
+  "_name": "Jeff",
+  "_salary": 100000,
+  "_isManager": true,
+  "_subordinates": [
+    {
+      "_name": "Dave",
+      "_salary": 50000,
+      "_isManager": true,
+      "_subordinates": [
+        {
+          "_name": "Rick",
+          "_salary": 25000,
+          "_isManager": false
+        },
+        {
+          "_name": "Andy",
+          "_salary": 25000,
+          "_isManager": false
+        },
+        {
+          "_name": "Suzanne",
+          "_salary": 25000,
+          "_isManager": false
+        },
+        {
+          "_name": "Jason",
+          "_salary": 25000,
+          "_isManager": false
+        },
+        {
+          "_name": "Dan",
+          "_salary": 25000,
+          "_isManager": false
+        }
+      ]
+    }
+  ]
+}
